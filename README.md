@@ -8,7 +8,7 @@ It combines **structured data analysis** (CSV files) with **unstructured policy 
 
 ## 🚀 What This Project Does
 
-- ✅ Analyzes real loan data from CSVs (users, loans, repayments)
+- ✅ Analyzes  loan data from CSVs (users, loans, repayments)
 - ✅ Answers natural language questions like:
   - "What is the default rate overall?"
   - "List users under 21 who received loans."
@@ -19,6 +19,8 @@ It combines **structured data analysis** (CSV files) with **unstructured policy 
 
 ---
 Dataset Overview
+
+This data is stimulated using Chat GPT, consist of 3 table (User: 554 rows, Loan Application: 2000 rows, Repayment 2500 row) from 2023-2025
 
 <img width="1194" height="670" alt="image" src="https://github.com/user-attachments/assets/6a749cac-140b-41d8-afe0-85509ca20632" />
 
