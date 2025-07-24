@@ -1,0 +1,12 @@
+Loan Eligibility:
+- Applicant must be at least 21 years old
+- Minimum monthly income: $2,500
+- No default history in the past 12 months
+
+Repayment Terms:
+- Payments are due monthly
+- Late payments are charged a 3% penalty
+- Default occurs if payment is missed for more than 60 days
+
+Reapplication:
+- Rejected applicants must wait 30 days before reapplying
